@@ -1,6 +1,6 @@
 # Interactive Animated Login Screen UI
 ### By: Cabida, Macahilo, Jandongan, & Armada
-
+#
 This is a course requirement for the subject Application Development and Emerging Technologies
 
 How to navigate the application:
