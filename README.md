@@ -1,16 +1,19 @@
-# final_term_output
+# Interactive Animated Login Screen UI
+### By: Cabida, Macahilo, Jandongan, & Armada
 
-A new Flutter project.
+This is a course requirement for the subject Application Development and Emerging Technologies
 
-## Getting Started
+How to navigate the application:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Input the following details on the email and password textfields
+```
+  Email: cictapps@wvsu.edu.ph
+  Password: toor
+```
+2. Tap or Click on the Login Button after filling out the text fields.
+3. A pop-up will show on the screen if the email or password is incorrect. 
+4. The animated character will then change its expression into a sad one if the email or password is incorrect.
+5. Tap or Click the "Try Again" button to input again the email and password.
+6. Once both email and password is correct, the animated character will then change its expression into a happy one.
+7. The UI will then direct you to the  home screen page once you entered the correct email and password.
+8. Tap the logout button if you want to exit the application.
