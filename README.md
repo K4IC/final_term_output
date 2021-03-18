@@ -1,8 +1,8 @@
 # Interactive Animated Login Screen UI
 ### By: Cabida, Macahilo, Jandongan, & Armada
-#
-This is a course requirement for the subject Application Development and Emerging Technologies
 
+This is a course requirement for the subject Application Development and Emerging Technologies
+#
 How to navigate the application:
 
 1. Input the following details on the email and password textfields
